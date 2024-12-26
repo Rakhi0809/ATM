@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ATM.Controllers.API_Controllar",
+    "Method": "GetUsers",
+    "RelativePath": "api/API_Controllar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

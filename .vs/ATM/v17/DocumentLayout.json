@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\ATM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|f:\\projects\\atm\\atm\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|solutionrelative:atm\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|f:\\projects\\atm\\atm\\controllers\\api controllar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|solutionrelative:atm\\controllers\\api controllar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|f:\\projects\\atm\\atm\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|solutionrelative:atm\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|f:\\projects\\atm\\atm\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|solutionrelative:atm\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|f:\\projects\\atm\\atm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|solutionrelative:atm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|f:\\projects\\atm\\atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|solutionrelative:atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|f:\\projects\\atm\\atm\\migrations\\20241226103716_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|solutionrelative:atm\\migrations\\20241226103716_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|f:\\projects\\atm\\atm\\rto\\userrto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|solutionrelative:atm\\rto\\userrto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|f:\\projects\\atm\\atm\\atm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|solutionrelative:atm\\atm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|f:\\projects\\atm\\atm\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCBC66D-C5FB-46C5-BD16-9F664E5BB376}|ATM\\ATM.csproj|solutionrelative:atm\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Projects\\ATM\\ATM\\appsettings.json",
+              "RelativeDocumentMoniker": "ATM\\appsettings.json",
+              "ToolTip": "F:\\Projects\\ATM\\ATM\\appsettings.json",
+              "RelativeToolTip": "ATM\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T10:38:03.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "F:\\Projects\\ATM\\ATM\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "ATM\\DTO\\UserDto.cs",
+              "ToolTip": "F:\\Projects\\ATM\\ATM\\DTO\\UserDto.cs",
+              "RelativeToolTip": "ATM\\DTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:41:44.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "F:\\Projects\\ATM\\ATM\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ATM\\Repository\\UserRepository.cs",
+              "ToolTip": "F:\\Projects\\ATM\\ATM\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "ATM\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:10:58.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "API Controllar.cs",
+              "DocumentMoniker": "F:\\Projects\\ATM\\ATM\\Controllers\\API Controllar.cs",
+              "RelativeDocumentMoniker": "ATM\\Controllers\\API Controllar.cs",
+              "ToolTip": "F:\\Projects\\ATM\\ATM\\Controllers\\API Controllar.cs",
+              "RelativeToolTip": "ATM\\Controllers\\API Controllar.cs",
+              "ViewState": "AgIAAAQAAADg//////8hwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:02:15.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "F:\\Projects\\ATM\\ATM\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ATM\\Repository\\IUserRepository.cs",
+              "ToolTip": "F:\\Projects\\ATM\\ATM\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "ATM\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:31:29.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241226103716_m1.cs",
+              "DocumentMoniker": "F:\\Projects\\ATM\\ATM\\Migrations\\20241226103716_m1.cs",
+              "RelativeDocumentMoniker": "ATM\\Migrations\\20241226103716_m1.cs",
+              "ToolTip": "F:\\Projects\\ATM\\ATM\\Migrations\\20241226103716_m1.cs",
+              "RelativeToolTip": "ATM\\Migrations\\20241226103716_m1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:37:16.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projects\\ATM\\ATM\\Program.cs",
+              "RelativeDocumentMoniker": "ATM\\Program.cs",
+              "ToolTip": "F:\\Projects\\ATM\\ATM\\Program.cs",
+              "RelativeToolTip": "ATM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:20:13.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ATM",
+              "DocumentMoniker": "F:\\Projects\\ATM\\ATM\\ATM.csproj",
+              "RelativeDocumentMoniker": "ATM\\ATM.csproj",
+              "ToolTip": "F:\\Projects\\ATM\\ATM\\ATM.csproj",
+              "RelativeToolTip": "ATM\\ATM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T07:29:34.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRTO.cs",
+              "DocumentMoniker": "F:\\Projects\\ATM\\ATM\\RTO\\UserRTO.cs",
+              "RelativeDocumentMoniker": "ATM\\RTO\\UserRTO.cs",
+              "ToolTip": "F:\\Projects\\ATM\\ATM\\RTO\\UserRTO.cs",
+              "RelativeToolTip": "ATM\\RTO\\UserRTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:41:19.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\Projects\\ATM\\ATM\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ATM\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\Projects\\ATM\\ATM\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ATM\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:08:11.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
